@@ -5,4 +5,11 @@ Mimics David Shrigley's work "the Artist" 's behavior to draw a picture.
 
 该作品于2018.09.08~2018.11.14在上海当代博物馆一楼“乱了乱了(Lose Your Mind)”展览中展出。
 
-![aaa](/image/IMG.JPG)
+<p align="center">
+    <img src="/image/IMG.JPG"  width="300" height=*>
+    <p align="center">
+        <em>“艺术家”的展出作品之一</em>
+    </p>
+</p>
+
+
