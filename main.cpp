@@ -10,7 +10,7 @@
 #include <math.h>
 #include "16807RNG.h"
 #include "artist.h"
-using namespace std;
+//using namespace std;
 
 #define PI 3.1415926535897
 #define WIDTH 601 //图形界面横向元素数
@@ -99,7 +99,7 @@ void display(){
 
         step++;
         if (step%100 == 0)
-            cout<<"step="<<step<<endl;
+            std::cout << "step=" << step << std::endl;
     }
     step++;
     glFlush();  //立刻显示图像
